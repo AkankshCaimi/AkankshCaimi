@@ -5,10 +5,10 @@
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/akanksh-caimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-prakash-singh-625b21224" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/akanksh_caimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="theviking733n" height="30" width="40" /></a> -->
-<!-- <a href="https://leetcode.com/akankshcaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theviking733n" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/akankshcaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anant733n" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/akanksh-caimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksh-caimi" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/akanksh_caimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akankshcaimi" height="30" width="40" /></a> -->
+<!-- <a href="https://leetcode.com/akankshcaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akankscaimi" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/akankshcaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akankshcaimi" height="30" width="40" /></a> -->
 </p>
 
 <br/>
