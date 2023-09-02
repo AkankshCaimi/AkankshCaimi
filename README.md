@@ -1,6 +1,6 @@
 ## Hi 👋, Welcome to my github profile 
 
-<h3>I'm AKANKSH CAIMI, a Sophomore studying Computer Science Engineering at Indian Institute of Technology, Ropar. I have a keen interest in Web-Development, Data Structures and Algorithms and Blockchain, constantly seeking to improve my skills and knowledge in these fields.</h3>
+<h3>I'm AKANKSH CAIMI, a Pre-Final year student studying Computer Science Engineering at Indian Institute of Technology, Ropar. I have a keen interest in Web-Development, Data Structures and Algorithms and Blockchain, constantly seeking to improve my skills and knowledge in these fields.</h3>
 
 
 # 🌐 Connect with me:
